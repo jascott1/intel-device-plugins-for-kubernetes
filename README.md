@@ -32,3 +32,5 @@ Prerequisites for building and running Intel device plugins include:
 
 [Go environment]: https://golang.org/doc/install
 [Kubernetes cluster]: https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+
+:)
